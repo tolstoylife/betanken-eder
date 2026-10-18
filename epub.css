@@ -1,0 +1,15 @@
+/* ponytail: reader default fonts; set a font-family here if the book needs its own */
+body { line-height: 1.5; }
+p { margin: 0; text-indent: 1.2em; }
+h1 + p, .titelsida p, .dedikation p, .kolofon p, .forord p:first-of-type { text-indent: 0; }
+.forord p, .kolofon p { margin-bottom: 0.6em; text-indent: 0; }
+h1 { text-align: center; font-size: 1.15em; margin: 2em 0 1.5em; }
+.dold { display: none; }
+.titelsida, .dedikation { text-align: center; margin-top: 15vh; }
+.titelsida p { margin-bottom: 1.2em; }
+.titel { font-size: 2em; font-weight: bold; }
+.forfattare { font-size: 1.3em; letter-spacing: 0.08em; text-transform: uppercase; }
+.sdg { width: 60%; max-width: 20em; }
+.dedikation p { font-style: italic; margin-top: 1em; }
+.kolofon { font-size: 0.9em; }
+.footnotes { font-size: 0.9em; }
