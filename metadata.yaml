@@ -1,0 +1,22 @@
+---
+title:
+  - type: main
+    text: Betänken Eder!
+  - type: subtitle
+    text: Ett bref till krigets män och tsaren
+creator:
+  - role: author
+    text: Leo Tolstoy
+  - role: editor
+    text: Johan Edlund
+lang: sv-SE
+date: 2026
+publisher: Johan Edlund
+identifier:
+  - scheme: URI
+    text: https://github.com/tolstoylife/betanken-eder
+rights: "SPDX-License-Identifier: CC0-1.0"
+subject: [krig, fred, pacifism, kristendom, rysk-japanska kriget]
+description: Leo Tolstoys upprop mot rysk-japanska kriget 1904, i den svenska utgåvan från samma år, med 1904 års stavning.
+cover-image: images/omslag.jpg
+---
