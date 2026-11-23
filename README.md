@@ -15,7 +15,6 @@ The text keeps the spelling of 1904. Obvious misprints are corrected, and unusua
 - `betanken-eder.md`: Tolstoy's text, the source for both the ebook and the web version
 - `titelsida.md`, `dedikation.md`, `forord.md`, `kolofon.md`: the ebook's front and back matter
 - `metadata.yaml`, `epub.css`, `images/`: the ebook's metadata, styling and images
-- `docs/anteckningar.md`: how each editorial note and correction was handled (in Swedish)
 
 ## Building the ebook
 
