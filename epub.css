@@ -13,3 +13,4 @@ h1 { text-align: center; font-size: 1.15em; margin: 2em 0 1.5em; }
 .dedikation p { font-style: italic; margin-top: 1em; }
 .kolofon { font-size: 0.9em; }
 .footnotes { font-size: 0.9em; }
+.sdg-kolofon { width: 50%; display: block; margin: 1.5em auto; }
