@@ -14,3 +14,4 @@ h1 { text-align: center; font-size: 1.15em; margin: 2em 0 1.5em; }
 .kolofon { font-size: 0.9em; }
 .footnotes { font-size: 0.9em; }
 .sdg-kolofon { width: 50%; display: block; margin: 1.5em auto; }
+.footnote-ref { vertical-align: super; font-size: 0.65em; line-height: 0; text-decoration: none; }
