@@ -1,13 +1,13 @@
 ## Kolofon
 
 ::: kolofon
-Leo Tolstoy: *Betänken Eder! Ett bref till krigets män och tsaren.* Stockholm: Björck & Börjesson, 1904. Tryckt hos V. Pettersons A.-B., Stockholm. Översättaren är okänd och allt tyder på att översättningen är gjord från den engelska versionen, inte från det ryska originalet.
+Leo Tolstoy: *Betänken Eder! Ett bref till krigets män och tsaren.* Stockholm: Björck & Börjesson, 1904. Tryckt hos V. Pettersons A.-B., Stockholm. Översättaren är okänd och översättningen är troligen gjord från den engelska versionen, inte från det ryska originalet.
 
 Mina skanningar av hela pamfletten finns på Internet Archive: <https://archive.org/details/leo-tolstoy_betanken-eder_jed>.
 
 Gammaldags stavning är bibehållen. Uppenbara tryckfel är rättade och en förteckning över dem finns i projektets källfiler på GitHub. Fotnoterna är mina egna. Kapitelrubrikerna kommer från Göteborgs Handels- och Sjöfartstidning, som tryckte översättningen den 1 juli 1904. I originalet är kapitlen bara numrerade.
 
-Den svenska utgåvan saknar hela kapitel nio, efterskriften och dateringarna, och också de omkring femtio citat som Tolstoy satte som motton för kapitlen. Den här utgåvan återger den svenska texten som den trycktes.
+Den svenska utgåvan saknar hela kapitel nio, efterskriften och dateringarna, liksom de omkring femtio citat som Tolstoy satte som motton för kapitlen. Den här utgåvan återger den svenska texten som den trycktes.
 
 Utgiven av Johan Edlund, 2026. Källfiler och felanmälan: <https://github.com/tolstoylife/betanken-eder>.
 
