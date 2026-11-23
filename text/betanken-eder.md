@@ -184,7 +184,7 @@ Ej nog med att dessa tusendens dödande redan har börjat; kriget ledes af de m�
 
 Det har öppet sagts, att vår flottas beklagliga motgångar måste kompenseras till lands. På rent språk betyder detta, att sedan myndigheterna skött sakerna illa till sjös och genom sin försumlighet förstört icke blott nationens millioner i pengar utan också tusentals människolif, så kunna vi klarera det genom att döma ytterligare många tusen människor till döden till lands!
 
-När krälande skaldjur passera en flod, händer det att de lägre lagren drunkna, tills deras lik bilda en bro, på hvilken de öfre lagren kunna gå fram. På samma sätt affärdas^[affärda: expediera, göra af med, döda.] det ryska folket.
+När krälande skaldjur passera en flod, händer det att de lägre lagren drunkna, tills deras lik bilda en bro, på hvilken de öfre lagren kunna gå fram. På samma sätt affärdas^[affärda: expediera, göra av med, döda.] det ryska folket.
 
 Det första undre lagret har redan börjat drunkna, visande väg för tusende andra, som likaledes alla skola förgås.
 
