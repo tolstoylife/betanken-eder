@@ -4,7 +4,7 @@ p { margin: 0; text-indent: 1.2em; }
 h1 + p, .title-page p, .dedication p, .colophon p, .preface p:first-of-type { text-indent: 0; }
 .preface p, .colophon p { margin-bottom: 0.6em; text-indent: 0; }
 h1 { text-align: center; font-size: 1.15em; margin: 2em 0 1.5em; }
-.hidden { display: none; }
+h1.hidden { display: none; }
 .title-page, .dedication { text-align: center; margin-top: 15vh; }
 .title-page p { margin-bottom: 1.2em; }
 .title { font-size: 2em; font-weight: bold; }
