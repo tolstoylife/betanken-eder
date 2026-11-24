@@ -1,4 +1,4 @@
-## Titelsida {.unlisted .hidden epub:type=titlepage}
+## Titelsida {.hidden epub:type=titlepage}
 
 ::: title-page
 Till krig emot kriget!
