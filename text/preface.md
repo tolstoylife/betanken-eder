@@ -1,4 +1,4 @@
-## Förord
+## Förord {epub:type=preface}
 
 ::: preface
 Denna text publicerades först i The Times (London) den 27 juni 1904. Översättningen till engelska från det ryska originalet gjordes av Vladimir Chertkov och I. F. Mayo. Bara fyra dagar senare publicerade Göteborgs Handels- och Sjöfartstidning en svensk version.

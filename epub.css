@@ -1,17 +1,18 @@
 /* ponytail: reader default fonts; set a font-family here if the book needs its own */
 body { line-height: 1.5; }
 p { margin: 0; text-indent: 1.2em; }
-h1 + p, .title-page p, .dedication p, .colophon p, .preface p:first-of-type { text-indent: 0; }
+h1 + p, .title-page p, .colophon p, .preface p:first-of-type { text-indent: 0; }
 .preface p, .colophon p { margin-bottom: 0.6em; text-indent: 0; }
 h1 { text-align: center; font-size: 1.15em; margin: 2em 0 1.5em; }
 h1.hidden { display: none; }
-.title-page, .dedication { text-align: center; margin-top: 15vh; }
+.title-page { text-align: center; margin-top: 15vh; }
 .title-page p { margin-bottom: 1.2em; }
 .title { font-size: 2em; font-weight: bold; }
 .author { font-size: 1.3em; letter-spacing: 0.08em; text-transform: uppercase; }
-.sdg { width: 60%; max-width: 20em; }
-.dedication p { font-style: italic; margin-top: 1em; }
 .colophon { font-size: 0.9em; }
 .footnotes { font-size: 0.9em; }
 .sdg-colophon { width: 50%; display: block; margin: 1.5em auto; }
 .footnote-ref { vertical-align: super; font-size: 0.65em; line-height: 0; text-decoration: none; }
+/* ⚠ Pandoc's cover page: without this, Apple Books spills the cover onto a second page */
+body#cover { margin: 0; padding: 0; }
+#cover-image, #cover-image svg { display: block; width: 100%; height: 100vh; margin: 0; }
