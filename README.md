@@ -6,7 +6,7 @@ The Swedish translation was first printed in full in Göteborgs Handels- och Sj�
 
 The text keeps the spelling of 1904. Obvious misprints are corrected, and unusual words are explained in footnotes.
 
-- Scans of the original: <https://archive.org/details/leo-tolstoy_betanken-eder_jed>
+- Scans of the original: <https://archive.org/details/leo-tolstoy_betanken-eder_pj>
 - Background research: [Betänken Eder! in Sweden](https://research.tolstoy.life/research/themes/betanken-eder-in-sweden/)
 - Read online, in Swedish, English (with read-along audio) or Russian: [Bethink Yourselves!](https://research.tolstoy.life/reader/non-fiction/essays-and-criticism/bethink-yourselves/bethink-yourselves.sv-1904.html)
 

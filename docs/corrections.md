@@ -1,6 +1,6 @@
 # Rättade tryckfel
 
-Den här utgåvan återger 1904 års tryck med dess stavning. Bara uppenbara tryckfel är rättade, och här är alla. Sidnumren gäller originalet, och skanningarna finns på Internet Archive: <https://archive.org/details/leo-tolstoy_betanken-eder_jed>.
+Den här utgåvan återger 1904 års tryck med dess stavning. Bara uppenbara tryckfel är rättade, och här är alla. Sidnumren gäller originalet, och skanningarna finns på Internet Archive: <https://archive.org/details/leo-tolstoy_betanken-eder_pj>.
 
 | Sida | I trycket | Rättat till | Kommentar |
 |---|---|---|---|
