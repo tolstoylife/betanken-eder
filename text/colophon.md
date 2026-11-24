@@ -1,4 +1,4 @@
-## Kolofon
+## Kolofon {epub:type=colophon}
 
 ::: colophon
 Leo Tolstoy: *Betänken Eder! Ett bref till krigets män och tsaren.* Stockholm: Björck & Börjesson, 1904. Tryckt hos V. Pettersons A.-B., Stockholm. Översättaren är okänd och översättningen är troligen gjord från den engelska versionen, inte från det ryska originalet.
