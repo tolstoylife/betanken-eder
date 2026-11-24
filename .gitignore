@@ -1,3 +1,20 @@
-.DS_Store
+# Personal working notes
+TODO.md
+LOG.md
+CLAUDE.md
+AGENTS.md
+
+# All local-only project material, scans included (anchored so it only matches the root folder)
+/_local/
+
+# Built ebook
 *.epub
-_local/
+
+# AI tooling state
+.claude
+.omc
+.superpowers
+.mcp.json
+
+# System files
+.DS_Store
