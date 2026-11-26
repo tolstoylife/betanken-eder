@@ -11,6 +11,8 @@ Den svenska utgåvan saknar hela kapitel nio, efterskriften och dateringarna, li
 
 Utgiven av Johan Edlund, 2026. Källfiler och felanmälan: <https://github.com/tolstoylife/betanken-eder>.
 
+Version %version%, %date%.
+
 ![](images/sdg.svg){.sdg-colophon alt="Monogrammet S D G"}
 
 Den här boken är tillägnad allmän egendom världen över med dedikationen Soli Deo Gloria, vars juridiskt verkande text är Creative Commons CC0 1.0 Universal. Vem som helst får kopiera, ändra, ge ut, använda, sammanställa, sälja eller sprida boken, i vilken form och för vilket syfte som helst, kommersiellt eller inte, utan att be om lov och utan att betala något. Verket tillhandahålls i befintligt skick, utan garantier av något slag. Dedikationens fullständiga text finns på <https://github.com/pjedlund/soli-deo-gloria-dedication>.

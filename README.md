@@ -8,6 +8,13 @@ Björck & Börjesson issued the translation as a pamphlet four days later: *Bet�
 
 The text keeps the spelling of 1904. Obvious misprints are corrected, and unusual words are explained in footnotes.
 
+## Download
+
+- The ebook, newest version: [betanken-eder.epub](https://github.com/tolstoylife/betanken-eder/releases/latest/download/betanken-eder.epub)
+- Every version, with what changed: [Releases](https://github.com/tolstoylife/betanken-eder/releases)
+
+The version number and date are in the ebook's colophon (Kolofon).
+
 - Scans of the original: <https://archive.org/details/leo-tolstoy_betanken-eder_pj>
 - Background research: [Betänken Eder! in Sweden](https://research.tolstoy.life/research/themes/betanken-eder-in-sweden/)
 - Read online, in Swedish, English (with read-along audio) or Russian: [Bethink Yourselves!](https://research.tolstoy.life/reader/non-fiction/essays-and-criticism/bethink-yourselves/bethink-yourselves.sv-1904.html)
@@ -30,6 +37,17 @@ brew install pandoc epubcheck
 ```bash
 ./build.sh
 ```
+
+## Making a release
+
+1. Raise `version:` in `metadata.yaml`, build with `./build.sh`, then commit and push.
+2. Publish the release with the ebook attached (needs the [GitHub CLI](https://cli.github.com)):
+
+```bash
+gh release create v1.0 betanken-eder.epub --title "Betänken Eder! 1.0" --notes "What changed."
+```
+
+Use the same number as in `metadata.yaml`. The colophon's date is the day the ebook was built.
 
 ## Licence
 
