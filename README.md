@@ -1,10 +1,10 @@
 # Betänken Eder!
 
-A reminder for everybody to refuse to participate in wars. The appeal comes against the backdrop of the Russo-Japanese War that started on 8 February 1904.   
+A reminder for everybody to refuse to participate in wars. The appeal comes against the backdrop of the Russo-Japanese War that started on 8 February 1904.
 
 The English original is by V. G. Chertkov and I. F. Mayo and appeared in *The Times* on 27 June 1904 as *Bethink Yourselves!*. A Swedish translation was printed in full in Göteborgs Handels- och Sjöfartstidning on 1 July 1904. The translator is unknown.
 
-Björck & Börjesson issued the translation as pamphlet four days later: *Betänken Eder! Ett bref till krigets män och tsaren*. The pamphlet leaves out chapter IX, the postscript, the datelines and the chapter epigraphs.
+Björck & Börjesson issued the translation as a pamphlet four days later: *Betänken Eder! Ett bref till krigets män och tsaren*. The pamphlet leaves out chapter IX, the postscript, the datelines and the chapter epigraphs.
 
 The text keeps the spelling of 1904. Obvious misprints are corrected, and unusual words are explained in footnotes.
 
